@@ -35,7 +35,7 @@
     },
     "windows": [
       { "url": "https://demo-compass.drs.app/ui/",
-        "fullscreen": false,
+        "fullscreen": true,
         "resizable": true,
         "title": "Compass",
         "width": 800,
